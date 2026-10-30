@@ -1,0 +1,91 @@
+{
+  "organisation": "Contoso Markets",
+  "as_of": "2026-10-30 09:00",
+  "currency": "€",
+  "not_seen_days": 30,
+  "warranty_warn_days": 90,
+  "warranty_critical_days": 45,
+  "eos_warn_days": 365,
+  "critical_service_levels": [
+    "Production - critical"
+  ],
+  "leaver_return_days": 14,
+  "refresh_years": {
+    "laptop": 4,
+    "desktop": 5,
+    "phone": 3,
+    "tablet": 4,
+    "monitor": 6,
+    "dock": 5,
+    "meeting room": 5,
+    "printer": 6,
+    "switch": 7,
+    "router": 7,
+    "firewall": 7,
+    "server": 5,
+    "storage": 5,
+    "pdu": 10,
+    "ups": 4,
+    "patch panel": null
+  },
+  "unit_costs": {
+    "laptop": 1450,
+    "desktop": 1650,
+    "phone": 750,
+    "tablet": 650,
+    "monitor": 260,
+    "dock": 230,
+    "meeting room": 3800,
+    "printer": 1400,
+    "switch": 6500,
+    "router": 4800,
+    "firewall": 9000,
+    "server": 11000,
+    "storage": 25000,
+    "pdu": 900,
+    "ups": 1600,
+    "patch panel": 0
+  },
+  "max_per_person": {
+    "laptop": 1,
+    "desktop": 1,
+    "phone": 1,
+    "tablet": 1,
+    "monitor": 2,
+    "dock": 1
+  },
+  "computer_required": true,
+  "end_of_support": {
+    "Cisco Catalyst 3850-48P": "2025-10-31"
+  },
+  "rack_categories": [
+    "switch",
+    "router",
+    "firewall",
+    "server",
+    "storage",
+    "pdu",
+    "patch panel"
+  ],
+  "stock_categories": [
+    "laptop",
+    "desktop",
+    "phone",
+    "monitor",
+    "dock"
+  ],
+  "forecast_quarters": 4,
+  "wave_share": 0.4,
+  "site_aliases": {
+    "MAD-HQ": "Madrid",
+    "PAR-01": "Paris"
+  },
+  "owners": {
+    "coverage": "Site IT lead",
+    "comms": "Network & infrastructure lead",
+    "lifecycle": "Site IT lead",
+    "people": "Service desk lead",
+    "stock": "Site IT lead",
+    "forecast": "IT budget owner"
+  }
+}

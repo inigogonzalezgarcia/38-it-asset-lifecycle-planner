@@ -1,0 +1,299 @@
+deviceName,serialNumber,model,manufacturer,operatingSystem,osVersion,userPrincipalName,lastSyncDateTime,enrolledDateTime,managedDeviceOwnerType,complianceState
+CM-AMS-L0207,8DNZCZD,Latitude 7430,Dell Inc.,Windows,10.0.26100.6584,sergio.ortega@contosomarkets.example,2026-10-27T20:46:00Z,2022-05-09T10:00:00Z,company,compliant
+CM-AMS-L0208,HN7CF2B,Latitude 7430,Dell Inc.,Windows,10.0.22631.5909,femke.hartmann@contosomarkets.example,2026-10-27T11:22:00Z,2022-06-14T10:00:00Z,company,compliant
+CM-AMS-L0209,D2XYCTR,Latitude 7420,Dell Inc.,Windows,10.0.26100.6584,nora.iglesias@contosomarkets.example,2026-10-29T06:25:00Z,2022-04-05T10:00:00Z,company,compliant
+CM-AMS-L0211,XP5MP6H,Latitude 7440,Dell Inc.,Windows,10.0.26100.6899,juliette.ferrer@contosomarkets.example,2026-10-28T10:22:00Z,2023-10-17T10:00:00Z,company,compliant
+CM-AMS-L0213,6C6LQSP,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,louis.jansen@contosomarkets.example,2026-10-29T11:44:00Z,2023-11-19T10:00:00Z,company,compliant
+CM-AMS-L0216,WL7W87Q,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,david.aldana@contosomarkets.example,2026-10-29T00:17:00Z,2023-12-09T10:00:00Z,company,noncompliant
+CM-AMS-L0217,GY9620T,Latitude 7440,Dell Inc.,Windows,10.0.26100.6899,tobias.dietrich@contosomarkets.example,2026-10-25T23:06:00Z,2023-12-21T10:00:00Z,company,compliant
+CM-AMS-L0220,WL64N3C,Latitude 7450,Dell Inc.,Windows,10.0.26100.6584,hannah.suarez@contosomarkets.example,2026-10-27T01:19:00Z,2025-01-31T10:00:00Z,company,compliant
+CM-AMS-L0221,4Y97F0R,Latitude 7450,Dell Inc.,Windows,10.0.26100.6899,grace.cortes@contosomarkets.example,2026-10-29T11:07:00Z,2025-05-20T10:00:00Z,company,compliant
+CM-AMS-L0222,DYFRSL7,Latitude 7450,Dell Inc.,Windows,10.0.26100.6584,fiona.vogel@contosomarkets.example,2026-10-29T15:37:00Z,2025-09-12T10:00:00Z,company,compliant
+CM-AMS-L0228,CL1Y5F0,Latitude 7450,Dell Inc.,Windows,10.0.26100.6584,mateo.aldana@contosomarkets.example,2026-10-26T07:07:00Z,2025-12-27T10:00:00Z,company,compliant
+CM-AMS-L0230,XMNBBS4,Latitude 7450,Dell Inc.,Windows,10.0.26100.6584,eva.weber@contosomarkets.example,2026-10-26T17:56:00Z,2025-05-06T10:00:00Z,company,compliant
+CM-AMS-L0232,G5KW0R1,Latitude 7450,Dell Inc.,Windows,10.0.22631.5909,patricia.rubio@contosomarkets.example,2026-10-26T12:59:00Z,2024-07-28T10:00:00Z,company,compliant
+CM-AMS-L0233,XGB8N45,Latitude 7450,Dell Inc.,Windows,10.0.26100.6899,amir.castro@contosomarkets.example,2026-10-26T12:44:00Z,2024-06-27T10:00:00Z,company,noncompliant
+CM-AMS-L0234,MB8GXJW,Latitude 7450,Dell Inc.,Windows,10.0.26100.6899,pablo.zamora@contosomarkets.example,2026-10-28T11:27:00Z,2024-11-21T10:00:00Z,company,compliant
+CM-AMS-L0238,BFGC38W,Latitude 7450,Dell Inc.,Windows,10.0.26100.6899,sofia.lozano@contosomarkets.example,2026-10-29T16:20:00Z,2024-12-16T10:00:00Z,company,compliant
+CM-AMS-L0239,P8DBG5K,Latitude 7450,Dell Inc.,Windows,10.0.26100.6899,ivan.visser@contosomarkets.example,2026-10-27T01:26:00Z,2024-09-20T10:00:00Z,company,compliant
+CM-AMS-L0245,4ZC33D5,Latitude 7450,Dell Inc.,Windows,10.0.22631.5909,theo.escobar@contosomarkets.example,2026-10-27T20:55:00Z,2026-02-13T10:00:00Z,company,compliant
+CM-AMS-L0246,LZXKS3D,Latitude 7450,Dell Inc.,Windows,10.0.26100.6584,sara.eriksen@contosomarkets.example,2026-10-28T20:57:00Z,2025-10-06T10:00:00Z,company,compliant
+CM-AMS-L0252,YQLQ2ZQ,Latitude 7450,Dell Inc.,Windows,10.0.26100.6584,andrea.cano@contosomarkets.example,2026-10-27T09:59:00Z,2025-09-18T10:00:00Z,company,compliant
+CM-AMS-L0257,DT3DMXZ,Latitude 7450,Dell Inc.,Windows,10.0.26100.6899,gabriel.dubois@contosomarkets.example,2026-10-27T21:13:00Z,2025-01-25T10:00:00Z,company,compliant
+CM-AMS-L0258,YWKKCYF,Latitude 7450,Dell Inc.,Windows,10.0.26100.6584,rosa.bauer@contosomarkets.example,2026-10-29T06:29:00Z,2024-08-28T10:00:00Z,company,compliant
+CM-AMS-L0259,9PX91L3,Latitude 7450,Dell Inc.,Windows,10.0.26100.6584,andrea.ferrer@contosomarkets.example,2026-10-28T15:54:00Z,2025-04-30T10:00:00Z,company,compliant
+CM-AMS-L0260,FX7C5B0,Latitude 7450,Dell Inc.,Windows,10.0.26100.6584,teresa.klein@contosomarkets.example,2026-10-26T14:39:00Z,2025-07-08T10:00:00Z,company,compliant
+CM-AMS-L0269,VCNKMH2,Latitude 7450,Dell Inc.,Windows,10.0.22631.5909,leo.ortega@contosomarkets.example,2026-10-29T13:17:00Z,2025-06-19T10:00:00Z,company,compliant
+CM-AMS-L0317,4NJGQYW,Latitude 7450,Dell Inc.,Windows,10.0.26100.6899,chloe.iglesias@contosomarkets.example,2026-10-08T08:00:00Z,2025-04-24T10:00:00Z,company,compliant
+CM-MAD-L0101,C488Q8S,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,martin.girard@contosomarkets.example,2026-10-29T16:34:00Z,2023-06-28T10:00:00Z,company,compliant
+CM-MAD-L0102,2XZKFGF,Latitude 7440,Dell Inc.,Windows,10.0.22631.5909,leo.benitez@contosomarkets.example,2026-10-29T10:31:00Z,2023-06-22T10:00:00Z,company,compliant
+CM-MAD-L0103,Z8680PY,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,adrian.nieto@contosomarkets.example,2026-10-28T13:39:00Z,2023-07-01T10:00:00Z,company,compliant
+CM-MAD-L0104,GDT0G5N,Latitude 7440,Dell Inc.,Windows,10.0.22631.5909,adrian.abad@contosomarkets.example,2026-10-29T11:30:00Z,2023-06-24T10:00:00Z,company,compliant
+CM-MAD-L0105,XQ5SN81,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,felix.dietrich@contosomarkets.example,2026-10-25T12:33:00Z,2023-07-08T10:00:00Z,company,compliant
+CM-MAD-L0106,6J2SHK8,Latitude 7440,Dell Inc.,Windows,10.0.26100.6899,rosa.brandt@contosomarkets.example,2026-10-25T09:22:00Z,2023-05-21T10:00:00Z,company,compliant
+CM-MAD-L0107,DCYXDP5,Latitude 7440,Dell Inc.,Windows,10.0.26100.6899,diego.jansen@contosomarkets.example,2026-10-29T10:20:00Z,2023-06-17T10:00:00Z,company,compliant
+CM-MAD-L0108,LR7463K,Latitude 7440,Dell Inc.,Windows,10.0.26100.6899,carlos.herrera@contosomarkets.example,2026-10-29T15:53:00Z,2023-06-10T10:00:00Z,company,compliant
+CM-MAD-L0109,5KJ3RRC,Latitude 7440,Dell Inc.,Windows,10.0.26100.6899,juliette.brandt@contosomarkets.example,2026-10-28T09:56:00Z,2023-07-08T10:00:00Z,company,compliant
+CM-MAD-L0110,G9W8NYM,Latitude 7440,Dell Inc.,Windows,10.0.22631.5909,bruno.madsen@contosomarkets.example,2026-10-27T16:25:00Z,2023-05-31T10:00:00Z,company,compliant
+CM-MAD-L0111,8R38GZM,Latitude 7440,Dell Inc.,Windows,10.0.22631.5909,elena.lorenzo@contosomarkets.example,2026-10-25T17:00:00Z,2023-06-12T10:00:00Z,company,compliant
+CM-MAD-L0112,81FB299,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,ana.garrido@contosomarkets.example,2026-10-29T08:59:00Z,2023-06-29T10:00:00Z,company,compliant
+CM-MAD-L0113,ZRQ822Y,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,helene.ortega@contosomarkets.example,2026-10-29T18:11:00Z,2023-06-22T10:00:00Z,company,compliant
+CM-MAD-L0114,WW122TH,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,fiona.rojas@contosomarkets.example,2026-10-25T21:10:00Z,2023-06-17T10:00:00Z,company,compliant
+CM-MAD-L0115,K471LLY,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,pedro.mendez@contosomarkets.example,2026-10-25T20:59:00Z,2023-06-30T10:00:00Z,company,compliant
+CM-MAD-L0116,N56DMQ5,Latitude 7440,Dell Inc.,Windows,10.0.26100.6899,martin.winter@contosomarkets.example,2026-10-28T09:26:00Z,2023-06-15T10:00:00Z,company,compliant
+CM-MAD-L0117,69WYQ9L,Latitude 7440,Dell Inc.,Windows,10.0.22631.5909,cristina.navarro@contosomarkets.example,2026-10-29T20:18:00Z,2023-07-06T10:00:00Z,company,compliant
+CM-MAD-L0118,8W2LNDH,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,gabriel.peters@contosomarkets.example,2026-10-26T12:31:00Z,2023-05-24T10:00:00Z,company,compliant
+CM-MAD-L0119,QKC13ZQ,Latitude 7440,Dell Inc.,Windows,10.0.26100.6899,erik.urquijo@contosomarkets.example,2026-10-30T06:07:00Z,2023-07-10T10:00:00Z,company,compliant
+CM-MAD-L0120,BN5K2C7,Latitude 7440,Dell Inc.,Windows,10.0.26100.6899,isaac.suarez@contosomarkets.example,2026-10-29T18:10:00Z,2023-05-27T10:00:00Z,company,compliant
+CM-MAD-L0121,KBSF1KK,Latitude 7440,Dell Inc.,Windows,10.0.22631.5909,margot.schmidt@contosomarkets.example,2026-10-27T17:13:00Z,2023-06-06T10:00:00Z,company,compliant
+CM-MAD-L0122,B40F5LS,Latitude 7440,Dell Inc.,Windows,10.0.22631.5909,beatriz.vega@contosomarkets.example,2026-10-26T00:14:00Z,2023-06-17T10:00:00Z,company,compliant
+CM-MAD-L0123,B5P4L16,Latitude 7440,Dell Inc.,Windows,10.0.26100.6899,rosa.vogel@contosomarkets.example,2026-10-28T23:24:00Z,2023-07-02T10:00:00Z,company,noncompliant
+CM-MAD-L0124,TLJXQVH,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,ruben.escobar@contosomarkets.example,2026-10-27T02:29:00Z,2023-05-26T10:00:00Z,company,compliant
+CM-MAD-L0125,JX4V1M4,Latitude 7440,Dell Inc.,Windows,10.0.26100.6899,martin.jansen@contosomarkets.example,2026-10-27T01:12:00Z,2023-06-23T10:00:00Z,company,compliant
+CM-MAD-L0126,5RCPYCG,Latitude 7440,Dell Inc.,Windows,10.0.22631.5909,emma.vogel@contosomarkets.example,2026-10-28T19:10:00Z,2023-06-25T10:00:00Z,company,compliant
+CM-MAD-L0127,9X3SHTB,Latitude 7440,Dell Inc.,Windows,10.0.26100.6899,olga.schmidt@contosomarkets.example,2026-10-25T20:58:00Z,2023-06-17T10:00:00Z,company,compliant
+CM-MAD-L0128,DSL577X,Latitude 7440,Dell Inc.,Windows,10.0.22631.5909,david.bauer@contosomarkets.example,2026-10-25T22:44:00Z,2023-06-03T10:00:00Z,company,compliant
+CM-MAD-L0129,L79X0DR,Latitude 7440,Dell Inc.,Windows,10.0.22631.5909,bram.nieto@contosomarkets.example,2026-10-27T13:03:00Z,2023-06-26T10:00:00Z,company,compliant
+CM-MAD-L0130,QHJ6WJ2,Latitude 7440,Dell Inc.,Windows,10.0.22631.5909,mia.ferrer@contosomarkets.example,2026-10-28T10:14:00Z,2023-06-20T10:00:00Z,company,compliant
+CM-MAD-L0131,8H991CJ,Latitude 5440,Dell Inc.,Windows,10.0.22631.5909,marta.molina@contosomarkets.example,2026-10-27T09:17:00Z,2023-05-25T10:00:00Z,company,compliant
+CM-MAD-L0132,J88LR0Q,Latitude 7440,Dell Inc.,Windows,10.0.26100.6899,sara.escobar@contosomarkets.example,2026-10-28T18:41:00Z,2023-07-05T10:00:00Z,company,compliant
+CM-MAD-L0133,NRXYBK4,Latitude 7440,Dell Inc.,Windows,10.0.26100.6899,andrea.serrano@contosomarkets.example,2026-10-26T21:56:00Z,2023-07-04T10:00:00Z,company,compliant
+CM-MAD-L0134,WYLH08V,Latitude 7440,Dell Inc.,Windows,10.0.26100.6899,andrea.cortes@contosomarkets.example,2026-10-29T09:37:00Z,2023-06-03T10:00:00Z,company,noncompliant
+CM-MAD-L0135,F0D6SYJ,Latitude 7440,Dell Inc.,Windows,10.0.26100.6899,martin.torres@contosomarkets.example,2026-10-26T01:14:00Z,2023-06-25T10:00:00Z,company,compliant
+CM-MAD-L0136,1CLNTDT,Latitude 7440,Dell Inc.,Windows,10.0.26100.6899,jakob.vega@contosomarkets.example,2026-10-25T21:30:00Z,2023-06-07T10:00:00Z,company,compliant
+CM-MAD-L0137,BSW3GF9,Latitude 7440,Dell Inc.,Windows,10.0.26100.6899,emma.brandt@contosomarkets.example,2026-10-29T07:19:00Z,2023-06-15T10:00:00Z,company,noncompliant
+CM-MAD-L0138,TZVHNHD,Latitude 7440,Dell Inc.,Windows,10.0.26100.6899,teresa.cano@contosomarkets.example,2026-10-30T00:19:00Z,2023-07-02T10:00:00Z,company,compliant
+CM-MAD-L0139,YLKGRM4,Latitude 7440,Dell Inc.,Windows,10.0.26100.6899,isaac.vidal@contosomarkets.example,2026-10-25T22:03:00Z,2023-06-17T10:00:00Z,company,compliant
+CM-MAD-L0140,9VVSXCG,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,hannah.pascual@contosomarkets.example,2026-10-28T12:08:00Z,2023-07-17T10:00:00Z,company,compliant
+CM-MAD-L0141,745RDFX,Latitude 7440,Dell Inc.,Windows,10.0.22631.5909,marta.hartmann@contosomarkets.example,2026-10-27T02:12:00Z,2023-05-26T10:00:00Z,company,compliant
+CM-MAD-L0142,XVR2FHB,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,lucas.hartmann@contosomarkets.example,2026-10-26T18:50:00Z,2023-07-02T10:00:00Z,company,compliant
+CM-MAD-L0143,36VGQ0R,Latitude 7440,Dell Inc.,Windows,10.0.22631.5909,femke.aldana@contosomarkets.example,2026-10-26T22:12:00Z,2023-06-21T10:00:00Z,company,compliant
+CM-MAD-L0144,M0TX7JL,Latitude 7440,Dell Inc.,Windows,10.0.22631.5909,hannah.fuentes@contosomarkets.example,2026-10-28T11:32:00Z,2023-06-28T10:00:00Z,company,compliant
+CM-MAD-L0145,QP9XDTD,Latitude 7440,Dell Inc.,Windows,10.0.26100.6899,andrea.devries@contosomarkets.example,2026-10-29T14:48:00Z,2023-06-01T10:00:00Z,company,compliant
+CM-MAD-L0146,GQMN1NQ,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,sofia.madsen@contosomarkets.example,2026-10-27T22:07:00Z,2023-05-27T10:00:00Z,company,compliant
+CM-MAD-L0147,W2DL1MH,Latitude 7440,Dell Inc.,Windows,10.0.22631.5909,amir.weber@contosomarkets.example,2026-10-28T13:13:00Z,2023-05-21T10:00:00Z,company,compliant
+CM-MAD-L0148,H6216CC,Latitude 7440,Dell Inc.,Windows,10.0.22631.5909,zoe.klein@contosomarkets.example,2026-10-26T14:37:00Z,2023-07-04T10:00:00Z,company,compliant
+CM-MAD-L0149,6TX098B,Latitude 7440,Dell Inc.,Windows,10.0.22631.5909,noemie.sanz@contosomarkets.example,2026-10-27T13:35:00Z,2023-07-02T10:00:00Z,company,compliant
+CM-MAD-L0150,25N6DNR,Latitude 7440,Dell Inc.,Windows,10.0.26100.6899,marta.suarez@contosomarkets.example,2026-10-27T23:28:00Z,2023-06-30T10:00:00Z,company,compliant
+CM-MAD-L0151,HCHDR76,Latitude 7440,Dell Inc.,Windows,10.0.22631.5909,ana.soler@contosomarkets.example,2026-09-15T09:00:00Z,2023-07-02T10:00:00Z,company,compliant
+CM-MAD-L0152,9P28GN6,Latitude 7440,Dell Inc.,Windows,10.0.26100.6899,camille.lorenzo@contosomarkets.example,2026-09-19T09:00:00Z,2023-06-05T10:00:00Z,company,compliant
+CM-MAD-L0153,7PBW28R,Latitude 7440,Dell Inc.,Windows,10.0.22631.5909,diego.cortes@contosomarkets.example,2026-10-29T22:16:00Z,2023-06-23T10:00:00Z,company,compliant
+CM-MAD-L0154,S2K80P5,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,sergio.jansen@contosomarkets.example,2026-10-30T04:28:00Z,2023-07-08T10:00:00Z,company,compliant
+CM-MAD-L0155,HMG83WH,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,noemie.zamora@contosomarkets.example,2026-10-27T14:09:00Z,2023-07-06T10:00:00Z,company,compliant
+CM-MAD-L0156,5NRTDFD,Latitude 7440,Dell Inc.,Windows,10.0.26100.6899,isaac.vega@contosomarkets.example,2026-10-30T05:06:00Z,2023-06-03T10:00:00Z,company,noncompliant
+CM-MAD-L0157,Z7YPQKP,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,patricia.urquijo@contosomarkets.example,2026-10-27T19:12:00Z,2023-07-02T10:00:00Z,company,compliant
+CM-MAD-L0158,D2LFPZB,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,zoe.cano@contosomarkets.example,2026-10-28T12:59:00Z,2023-07-15T10:00:00Z,company,compliant
+CM-MAD-L0159,DRQ2R45,Latitude 7440,Dell Inc.,Windows,10.0.26100.6899,bruno.marin@contosomarkets.example,2026-10-26T04:35:00Z,2023-06-20T10:00:00Z,company,compliant
+CM-MAD-L0160,9VDDJV7,Latitude 7440,Dell Inc.,Windows,10.0.26100.6899,noemie.eriksen@contosomarkets.example,2026-10-26T22:34:00Z,2023-06-18T10:00:00Z,company,compliant
+CM-MAD-L0161,HZJQB2H,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,camille.duarte@contosomarkets.example,2026-10-29T03:02:00Z,2023-07-06T10:00:00Z,company,compliant
+CM-MAD-L0162,CJGDSH0,Latitude 7440,Dell Inc.,Windows,10.0.26100.6899,fiona.herrera@contosomarkets.example,2026-10-27T17:00:00Z,2023-06-05T10:00:00Z,company,compliant
+CM-MAD-L0163,FJ3TC0P,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,ana.lefevre@contosomarkets.example,2026-10-26T22:50:00Z,2023-06-01T10:00:00Z,company,compliant
+CM-MAD-L0164,TDCBV00,Latitude 7440,Dell Inc.,Windows,10.0.26100.6899,alice.zamora@contosomarkets.example,2026-10-25T17:13:00Z,2023-06-10T10:00:00Z,company,compliant
+CM-MAD-L0165,Q2GL8LY,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,erik.bakker@contosomarkets.example,2026-10-27T20:49:00Z,2023-06-18T10:00:00Z,company,compliant
+CM-MAD-L0166,PD91MWB,Latitude 7440,Dell Inc.,Windows,10.0.22631.5909,mia.herrera@contosomarkets.example,2026-10-30T02:50:00Z,2023-07-20T10:00:00Z,company,compliant
+CM-MAD-L0167,Z9MRLQJ,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,martin.meijer@contosomarkets.example,2026-10-30T03:37:00Z,2023-06-26T10:00:00Z,company,compliant
+CM-MAD-L0168,5CVXZR6,Latitude 7440,Dell Inc.,Windows,10.0.22631.5909,ivan.smit@contosomarkets.example,2026-10-26T19:06:00Z,2023-06-26T10:00:00Z,company,compliant
+CM-MAD-L0169,NWR470L,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,zoe.jansen@contosomarkets.example,2026-10-25T09:37:00Z,2023-05-17T10:00:00Z,company,compliant
+CM-MAD-L0170,10KT3N2,Latitude 7440,Dell Inc.,Windows,10.0.26100.6899,yara.aldana@contosomarkets.example,2026-10-25T09:14:00Z,2023-06-03T10:00:00Z,company,compliant
+CM-MAD-L0171,T96Q2PK,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,beatriz.mendez@contosomarkets.example,2026-10-28T01:01:00Z,2023-03-01T10:00:00Z,company,compliant
+CM-MAD-L0172,97H4XRV,Latitude 7440,Dell Inc.,Windows,10.0.22631.5909,yara.hartmann@contosomarkets.example,2026-10-28T23:33:00Z,2023-02-06T10:00:00Z,company,compliant
+CM-MAD-L0173,FLBRGLK,Latitude 7440,Dell Inc.,Windows,10.0.22631.5909,alba.eriksen@contosomarkets.example,2026-10-27T23:43:00Z,2023-02-05T10:00:00Z,company,compliant
+CM-MAD-L0174,KQS0NPM,Latitude 7440,Dell Inc.,Windows,10.0.22631.5909,yara.peters@contosomarkets.example,2026-10-26T15:17:00Z,2023-02-27T10:00:00Z,company,compliant
+CM-MAD-L0175,QCW8T4D,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,chloe.devries@contosomarkets.example,2026-10-29T09:26:00Z,2023-03-24T10:00:00Z,company,compliant
+CM-MAD-L0176,F6RRQVY,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,karin.delgado@contosomarkets.example,2026-10-28T04:55:00Z,2023-03-18T10:00:00Z,company,noncompliant
+CM-MAD-L0177,JSV3PX5,Latitude 7440,Dell Inc.,Windows,10.0.22631.5909,theo.suarez@contosomarkets.example,2026-10-27T19:49:00Z,2023-03-20T10:00:00Z,company,compliant
+CM-MAD-L0178,ZKP5XWG,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,david.delgado@contosomarkets.example,2026-10-25T17:50:00Z,2023-02-15T10:00:00Z,company,compliant
+CM-MAD-L0179,SVZDPTR,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,emma.bauer@contosomarkets.example,2026-10-29T11:05:00Z,2023-03-29T10:00:00Z,company,compliant
+CM-MAD-L0180,F6LMD7X,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,pablo.escobar@contosomarkets.example,2026-10-29T21:54:00Z,2023-02-17T10:00:00Z,company,compliant
+CM-MAD-L0181,TXLP9F2,Latitude 7440,Dell Inc.,Windows,10.0.22631.5909,hannah.marin@contosomarkets.example,2026-10-27T20:30:00Z,2023-03-16T10:00:00Z,company,compliant
+CM-MAD-L0182,8YWSRK9,Latitude 7440,Dell Inc.,Windows,10.0.26100.6899,hannah.arnaiz@contosomarkets.example,2026-10-27T23:50:00Z,2023-02-05T10:00:00Z,company,compliant
+CM-MAD-L0183,BRFZ184,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,clara.visser@contosomarkets.example,2026-10-28T05:10:00Z,2023-02-12T10:00:00Z,company,compliant
+CM-MAD-L0184,41RT15P,Latitude 7440,Dell Inc.,Windows,10.0.26100.6899,sofia.keane@contosomarkets.example,2026-10-25T22:22:00Z,2023-02-15T10:00:00Z,company,compliant
+CM-MAD-L0185,CKRR748,Latitude 7430,Dell Inc.,Windows,10.0.26100.6584,grace.dubois@contosomarkets.example,2026-10-26T15:40:00Z,2022-12-24T10:00:00Z,company,compliant
+CM-MAD-L0186,YK77J4S,Latitude 7430,Dell Inc.,Windows,10.0.26100.6584,bruno.delgado@contosomarkets.example,2026-10-28T10:04:00Z,2022-12-03T10:00:00Z,company,compliant
+CM-MAD-L0187,BHJTLRL,Latitude 7430,Dell Inc.,Windows,10.0.22631.5909,elena.rojas@contosomarkets.example,2026-10-30T08:10:00Z,2022-12-11T10:00:00Z,company,compliant
+CM-MAD-L0188,H5GVRF2,Latitude 7430,Dell Inc.,Windows,10.0.26100.6584,patricia.iglesias@contosomarkets.example,2026-10-26T07:46:00Z,2022-11-20T10:00:00Z,company,compliant
+CM-MAD-L0189,Y8QHWVL,Latitude 7430,Dell Inc.,Windows,10.0.22631.5909,adrian.moreau@contosomarkets.example,2026-10-27T08:36:00Z,2022-09-21T10:00:00Z,company,compliant
+CM-MAD-L0190,JW1B4RC,Latitude 7430,Dell Inc.,Windows,10.0.22631.5909,maria.sanz@contosomarkets.example,2026-10-29T00:47:00Z,2022-06-27T10:00:00Z,company,compliant
+CM-MAD-L0191,6WF420L,Latitude 7430,Dell Inc.,Windows,10.0.22631.5909,gabriel.garrido@contosomarkets.example,2026-09-22T06:00:00Z,2022-08-19T10:00:00Z,company,compliant
+CM-MAD-L0192,213L3VX,Latitude 7430,Dell Inc.,Windows,10.0.26100.6899,daan.castro@contosomarkets.example,2026-09-08T06:00:00Z,2022-08-02T10:00:00Z,company,compliant
+CM-MAD-L0193,SB2VQRC,Latitude 7420,Dell Inc.,Windows,10.0.22631.5909,sanne.castro@contosomarkets.example,2026-07-27T06:00:00Z,2022-03-11T10:00:00Z,company,compliant
+CM-MAD-L0194,8T9RL5R,Latitude 7430,Dell Inc.,Windows,10.0.26100.6899,andrea.dietrich@contosomarkets.example,2026-06-12T06:00:00Z,2022-09-15T10:00:00Z,company,compliant
+CM-MAD-L0195,YPZ47ZC,Latitude 7420,Dell Inc.,Windows,10.0.22631.5909,ivan.lorenzo@contosomarkets.example,2026-10-29T21:56:00Z,2022-04-14T10:00:00Z,company,compliant
+CM-MAD-L0196,3JQW3HR,Latitude 7450,Dell Inc.,Windows,10.0.26100.6584,pablo.klein@contosomarkets.example,2026-10-27T04:24:00Z,2026-04-29T10:00:00Z,company,compliant
+CM-MAD-L0197,D5HN3GN,Latitude 7450,Dell Inc.,Windows,10.0.26100.6899,fiona.moreau@contosomarkets.example,2026-10-27T16:29:00Z,2025-07-14T10:00:00Z,company,compliant
+CM-MAD-L0198,95MTXPS,Latitude 7450,Dell Inc.,Windows,10.0.26100.6584,fiona.serrano@contosomarkets.example,2026-10-27T08:41:00Z,2024-04-01T10:00:00Z,company,compliant
+CM-MAD-L0199,539LQ30,Latitude 7450,Dell Inc.,Windows,10.0.26100.6584,femke.marin@contosomarkets.example,2026-10-28T15:43:00Z,2025-07-08T10:00:00Z,company,compliant
+CM-MAD-L0200,4PMRTHX,Latitude 7450,Dell Inc.,Windows,10.0.26100.6899,chloe.navarro@contosomarkets.example,2026-10-29T01:15:00Z,2024-06-20T10:00:00Z,company,compliant
+CM-MAD-L0201,ZQPSDP4,Latitude 7450,Dell Inc.,Windows,10.0.26100.6899,clara.vega@contosomarkets.example,2026-10-29T14:48:00Z,2024-07-16T10:00:00Z,company,noncompliant
+CM-MAD-L0202,RLWGF4Y,Latitude 7450,Dell Inc.,Windows,10.0.26100.6899,jakob.bauer@contosomarkets.example,2026-10-29T08:48:00Z,2025-09-15T10:00:00Z,company,compliant
+CM-MAD-L0203,9HDTNSZ,Latitude 7450,Dell Inc.,Windows,10.0.26100.6899,juliette.ramos@contosomarkets.example,2026-10-30T02:36:00Z,2025-09-06T10:00:00Z,company,compliant
+CM-MAD-L0204,F7K2D4J,Latitude 7450,Dell Inc.,Windows,10.0.26100.6584,laura.meijer@contosomarkets.example,2026-10-29T17:04:00Z,2026-03-23T10:00:00Z,company,compliant
+CM-MAD-L0205,4ZL87W5,Latitude 7450,Dell Inc.,Windows,10.0.26100.6899,amir.vega@contosomarkets.example,2026-10-27T17:10:00Z,2025-08-03T10:00:00Z,company,compliant
+CM-MAD-L0206,2R64052,Latitude 7450,Dell Inc.,Windows,10.0.22631.5909,bruno.winter@contosomarkets.example,2026-10-27T15:10:00Z,2024-07-14T10:00:00Z,company,compliant
+CM-MAD-L0261,VD6T1W6,Latitude 7450,Dell Inc.,Windows,10.0.22631.5909,camille.sanz@contosomarkets.example,2026-10-25T21:59:00Z,2025-08-16T10:00:00Z,company,compliant
+CM-MAD-L0262,G3KQBLD,Latitude 7450,Dell Inc.,Windows,10.0.22631.5909,bruno.vega@contosomarkets.example,2026-10-26T09:42:00Z,2025-05-25T10:00:00Z,company,compliant
+CM-MAD-L0263,10BDQHM,Latitude 7450,Dell Inc.,Windows,10.0.26100.6584,beatriz.hartmann@contosomarkets.example,2026-10-28T11:36:00Z,2025-08-19T10:00:00Z,company,compliant
+CM-MAD-L0264,ZB1QB29,Latitude 7450,Dell Inc.,Windows,10.0.22631.5909,felix.ramos@contosomarkets.example,2026-10-27T06:17:00Z,2025-08-13T10:00:00Z,company,compliant
+CM-MAD-L0265,7W42575,Latitude 7450,Dell Inc.,Windows,10.0.26100.6584,mateo.vogel@contosomarkets.example,2026-10-29T08:13:00Z,2025-10-28T10:00:00Z,company,compliant
+CM-MAD-L0266,MJSS9G4,Latitude 7450,Dell Inc.,Windows,10.0.26100.6899,beatriz.lorenzo@contosomarkets.example,2026-10-28T22:48:00Z,2025-11-19T10:00:00Z,company,compliant
+CM-MAD-L0312,P79DHQD,Latitude 7420,Dell Inc.,Windows,10.0.26100.6899,rosa.brandt@contosomarkets.example,2026-10-27T13:26:00Z,2022-02-19T10:00:00Z,company,compliant
+CM-MAD-L0313,H9MGPQF,Latitude 7420,Dell Inc.,Windows,10.0.26100.6899,margot.schmidt@contosomarkets.example,2026-10-24T21:35:00Z,2022-03-09T10:00:00Z,company,compliant
+CM-MAD-L0314,944290K,Latitude 7450,Dell Inc.,Windows,10.0.26100.6584,arturo.urquijo@contosomarkets.example,2026-10-27T07:00:00Z,2024-09-11T10:00:00Z,company,compliant
+CM-MAD-L0315,68GR76F,Latitude 7450,Dell Inc.,Windows,10.0.26100.6899,felix.castro@contosomarkets.example,2026-09-29T10:00:00Z,2025-07-27T10:00:00Z,company,noncompliant
+CM-MAD-L0318,4X2J8PQ,Latitude 7450,Dell Inc.,Windows,10.0.26100.6899,alba.zamora@contosomarkets.example,2026-10-25T22:00:00Z,2025-08-02T10:00:00Z,company,compliant
+CM-MAD-L0319,J4139HS,Latitude 7420,Dell Inc.,Windows,10.0.26100.6899,andrea.devries@contosomarkets.example,2026-10-21T09:00:00Z,2022-02-11T10:00:00Z,company,compliant
+CM-MAD-MR-PC01,To be filled by O.E.M.,NUC 13 Pro Kit,ASUSTeK COMPUTER INC.,Windows,10.0.26100.6899,,2026-10-30T05:39:00Z,2025-01-20T12:00:00Z,company,compliant
+CM-MAD-TD001,R08QZFV,Precision 3660 Tower,Dell Inc.,Windows,10.0.26100.6899,beatriz.vega@contosomarkets.example,2026-10-29T22:13:00Z,2022-06-28T10:00:00Z,company,compliant
+CM-MAD-TD002,1VZH94G,Precision 3660 Tower,Dell Inc.,Windows,10.0.26100.6899,zoe.jansen@contosomarkets.example,2026-10-30T06:56:00Z,2022-06-28T10:00:00Z,company,compliant
+CM-MAD-TD003,GX802KP,Precision 3660 Tower,Dell Inc.,Windows,10.0.26100.6899,sara.escobar@contosomarkets.example,2026-10-29T16:31:00Z,2022-06-28T10:00:00Z,company,compliant
+CM-MAD-TD004,3GDDGSL,Precision 3660 Tower,Dell Inc.,Windows,10.0.26100.6899,david.delgado@contosomarkets.example,2026-10-29T20:04:00Z,2022-06-28T10:00:00Z,company,compliant
+CM-MAD-TD005,RPZQ17F,Precision 3660 Tower,Dell Inc.,Windows,10.0.26100.6899,zoe.cano@contosomarkets.example,2026-10-29T14:28:00Z,2022-06-28T10:00:00Z,company,compliant
+CM-MAD-TD006,6QK2NSK,Precision 3660 Tower,Dell Inc.,Windows,10.0.26100.6899,hannah.pascual@contosomarkets.example,2026-10-30T05:26:00Z,2022-06-28T10:00:00Z,company,compliant
+CM-MAD-TD007,0JLXHQS,Precision 3660 Tower,Dell Inc.,Windows,10.0.26100.6899,emma.brandt@contosomarkets.example,2026-10-30T01:41:00Z,2022-06-28T10:00:00Z,company,compliant
+CM-MAD-TD008,3234T3V,Precision 3660 Tower,Dell Inc.,Windows,10.0.26100.6899,hannah.fuentes@contosomarkets.example,2026-10-29T14:20:00Z,2022-06-28T10:00:00Z,company,compliant
+CM-MAD-TD009,KGFKY0M,Precision 3660 Tower,Dell Inc.,Windows,10.0.26100.6899,adrian.abad@contosomarkets.example,2026-10-29T12:35:00Z,2022-06-28T10:00:00Z,company,compliant
+CM-MAD-TD010,PHYFJKF,Precision 3660 Tower,Dell Inc.,Windows,10.0.26100.6899,patricia.iglesias@contosomarkets.example,2026-10-30T07:06:00Z,2022-06-28T10:00:00Z,company,compliant
+CM-MAD-TD011,ZM5W6BR,Precision 3660 Tower,Dell Inc.,Windows,10.0.26100.6899,alba.eriksen@contosomarkets.example,2026-10-29T13:40:00Z,2022-06-28T10:00:00Z,company,compliant
+CM-MAD-TD012,DH6ZRGN,Precision 3660 Tower,Dell Inc.,Windows,10.0.26100.6899,bruno.madsen@contosomarkets.example,2026-10-29T12:42:00Z,2022-06-28T10:00:00Z,company,compliant
+CM-MAD-TD013,B61C42B,Precision 3660 Tower,Dell Inc.,Windows,10.0.26100.6899,fiona.herrera@contosomarkets.example,2026-10-29T20:47:00Z,2022-06-28T10:00:00Z,company,compliant
+CM-MAD-TD014,9QT5V4Q,Precision 3660 Tower,Dell Inc.,Windows,10.0.26100.6899,marta.suarez@contosomarkets.example,2026-10-29T19:42:00Z,2022-06-28T10:00:00Z,company,compliant
+CM-MAD-TD015,QZ9BSB8,Precision 3660 Tower,Dell Inc.,Windows,10.0.26100.6899,adrian.nieto@contosomarkets.example,2026-10-30T03:00:00Z,2022-06-28T10:00:00Z,company,compliant
+CM-MAD-TD016,TLC6N65,Precision 3660 Tower,Dell Inc.,Windows,10.0.26100.6899,rosa.vogel@contosomarkets.example,2026-10-29T14:56:00Z,2022-06-28T10:00:00Z,company,compliant
+CM-MAD-TD017,MBC68WY,Precision 3660 Tower,Dell Inc.,Windows,10.0.26100.6899,erik.bakker@contosomarkets.example,2026-10-29T09:38:00Z,2022-06-28T10:00:00Z,company,compliant
+CM-MAD-TD018,NGMXZXQ,Precision 3660 Tower,Dell Inc.,Windows,10.0.26100.6899,ruben.escobar@contosomarkets.example,2026-10-30T06:13:00Z,2022-06-28T10:00:00Z,company,compliant
+CM-MAD-TD019,N78833R,Precision 3660 Tower,Dell Inc.,Windows,10.0.26100.6899,felix.dietrich@contosomarkets.example,2026-10-29T16:46:00Z,2022-06-28T10:00:00Z,company,compliant
+CM-MAD-TD020,B0JV70Y,Precision 3660 Tower,Dell Inc.,Windows,10.0.26100.6899,sofia.madsen@contosomarkets.example,2026-10-30T04:27:00Z,2022-06-28T10:00:00Z,company,compliant
+CM-MAD-TD021,WMJHVRP,Precision 3660 Tower,Dell Inc.,Windows,10.0.26100.6899,clara.vega@contosomarkets.example,2026-10-29T18:42:00Z,2022-06-28T10:00:00Z,company,compliant
+CM-MAD-TD022,V1QPVWF,Precision 3660 Tower,Dell Inc.,Windows,10.0.26100.6899,yara.aldana@contosomarkets.example,2026-10-30T02:06:00Z,2022-06-28T10:00:00Z,company,compliant
+CM-MAD-TD023,S8S3M8T,Precision 3660 Tower,Dell Inc.,Windows,10.0.26100.6899,pedro.mendez@contosomarkets.example,2026-10-29T22:15:00Z,2022-06-28T10:00:00Z,company,compliant
+CM-MAD-TD024,2Y5Y4YZ,Precision 3660 Tower,Dell Inc.,Windows,10.0.26100.6899,yara.peters@contosomarkets.example,2026-10-30T02:19:00Z,2022-06-28T10:00:00Z,company,compliant
+CM-PAR-L0210,FC5ZG94,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,grace.bauer@contosomarkets.example,2026-10-29T03:19:00Z,2023-12-29T10:00:00Z,company,compliant
+CM-PAR-L0212,ZTCQ11K,Latitude 7440,Dell Inc.,Windows,10.0.22631.5909,julia.bauer@contosomarkets.example,2026-10-28T20:07:00Z,2023-10-27T10:00:00Z,company,compliant
+CM-PAR-L0212-OLD,ZTCQ11K,Latitude 7440,Dell Inc.,Windows,10.0.22631.4317,julia.bauer@contosomarkets.example,2026-08-30T09:00:00Z,2024-03-11T09:12:00Z,company,noncompliant
+CM-PAR-L0214,8R5G7CG,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,ivan.cortes@contosomarkets.example,2026-10-26T01:53:00Z,2023-11-24T10:00:00Z,company,compliant
+CM-PAR-L0215,X9GTRJD,Latitude 7440,Dell Inc.,Windows,10.0.22631.5909,hugo.pardo@contosomarkets.example,2026-10-29T18:18:00Z,2023-12-04T10:00:00Z,company,compliant
+CM-PAR-L0218,RB08K1P,Latitude 7440,Dell Inc.,Windows,10.0.26100.6584,sergio.weber@contosomarkets.example,2026-10-26T09:03:00Z,2023-11-23T10:00:00Z,company,compliant
+CM-PAR-L0219,1DKWTXS,Latitude 7450,Dell Inc.,Windows,10.0.26100.6584,adrian.ramos@contosomarkets.example,2026-10-25T17:16:00Z,2024-05-01T10:00:00Z,company,compliant
+CM-PAR-L0223,XX8H5DX,Latitude 7450,Dell Inc.,Windows,10.0.22631.5909,karin.zamora@contosomarkets.example,2026-10-30T04:15:00Z,2024-12-21T10:00:00Z,company,compliant
+CM-PAR-L0224,JB8VX76,Latitude 7450,Dell Inc.,Windows,10.0.26100.6584,arturo.moreau@contosomarkets.example,2026-10-27T14:10:00Z,2025-02-14T10:00:00Z,company,compliant
+CM-PAR-L0225,N3Q3CQZ,Latitude 7450,Dell Inc.,Windows,10.0.22631.5909,isaac.peters@contosomarkets.example,2026-10-28T20:58:00Z,2025-10-18T10:00:00Z,company,compliant
+CM-PAR-L0226,5DSGSYC,Latitude 7450,Dell Inc.,Windows,10.0.26100.6899,sergio.fischer@contosomarkets.example,2026-10-25T18:04:00Z,2025-09-19T10:00:00Z,company,compliant
+CM-PAR-L0227,F7YL73C,Latitude 7450,Dell Inc.,Windows,10.0.22631.5909,emma.blanco@contosomarkets.example,2026-10-25T11:13:00Z,2026-05-22T10:00:00Z,company,noncompliant
+CM-PAR-L0229,MP86MG1,Latitude 7450,Dell Inc.,Windows,10.0.26100.6899,david.mendez@contosomarkets.example,2026-10-29T16:35:00Z,2024-03-23T10:00:00Z,company,noncompliant
+CM-PAR-L0231,1XKPYSM,Latitude 7450,Dell Inc.,Windows,10.0.26100.6899,eva.rojas@contosomarkets.example,2026-10-25T14:42:00Z,2024-12-21T10:00:00Z,company,compliant
+CM-PAR-L0235,GD4P033,Latitude 7450,Dell Inc.,Windows,10.0.26100.6899,bruno.serrano@contosomarkets.example,2026-10-27T23:45:00Z,2025-06-08T10:00:00Z,company,compliant
+CM-PAR-L0236,HBRF33H,Latitude 7450,Dell Inc.,Windows,10.0.26100.6899,alba.castro@contosomarkets.example,2026-10-28T00:54:00Z,2025-05-26T10:00:00Z,company,compliant
+CM-PAR-L0237,9JK3HR1,Latitude 7450,Dell Inc.,Windows,10.0.26100.6584,adrian.rubio@contosomarkets.example,2026-10-27T11:03:00Z,2024-02-15T10:00:00Z,company,compliant
+CM-PAR-L0240,CRRCM2J,Latitude 7450,Dell Inc.,Windows,10.0.26100.6899,ines.carvalho@contosomarkets.example,2026-10-26T00:41:00Z,2024-07-04T10:00:00Z,company,compliant
+CM-PAR-L0241,LSV8TNP,Latitude 7450,Dell Inc.,Windows,10.0.22631.5909,felix.bauer@contosomarkets.example,2026-10-27T23:34:00Z,2024-04-27T10:00:00Z,company,compliant
+CM-PAR-L0242,FRRY64K,Latitude 7450,Dell Inc.,Windows,10.0.26100.6584,diego.devries@contosomarkets.example,2026-10-25T11:15:00Z,2025-01-06T10:00:00Z,company,noncompliant
+CM-PAR-L0243,8BMXCH4,Latitude 7450,Dell Inc.,Windows,10.0.26100.6899,erik.hartmann@contosomarkets.example,2026-10-28T03:35:00Z,2024-04-08T10:00:00Z,company,compliant
+CM-PAR-L0244,T699VWL,Latitude 7450,Dell Inc.,Windows,10.0.22631.5909,grace.jansen@contosomarkets.example,2026-10-28T14:23:00Z,2025-06-01T10:00:00Z,company,compliant
+CM-PAR-L0247,YS999CX,Latitude 7450,Dell Inc.,Windows,10.0.22631.5909,bruno.duarte@contosomarkets.example,2026-10-28T12:47:00Z,2026-01-14T10:00:00Z,company,compliant
+CM-PAR-L0248,573PTTL,Latitude 7450,Dell Inc.,Windows,10.0.22631.5909,bram.schmidt@contosomarkets.example,2026-10-26T11:04:00Z,2025-09-13T10:00:00Z,company,compliant
+CM-PAR-L0249,0KDW8C3,Latitude 7450,Dell Inc.,Windows,10.0.22631.5909,nora.smit@contosomarkets.example,2026-10-26T12:34:00Z,2024-12-17T10:00:00Z,company,compliant
+CM-PAR-L0250,XDMSD0Y,Latitude 7450,Dell Inc.,Windows,10.0.26100.6899,mia.girard@contosomarkets.example,2026-10-28T06:57:00Z,2025-11-25T10:00:00Z,company,compliant
+CM-PAR-L0251,GPFX91V,Latitude 7450,Dell Inc.,Windows,10.0.26100.6584,nora.quintana@contosomarkets.example,2026-10-26T10:37:00Z,2024-10-28T10:00:00Z,company,compliant
+CM-PAR-L0253,0SQVYVF,Latitude 7450,Dell Inc.,Windows,10.0.26100.6899,oliver.pascual@contosomarkets.example,2026-10-26T02:01:00Z,2025-10-15T10:00:00Z,company,compliant
+CM-PAR-L0254,X8WP9J9,Latitude 7450,Dell Inc.,Windows,10.0.26100.6899,hugo.soler@contosomarkets.example,2026-10-28T14:01:00Z,2024-11-20T10:00:00Z,company,noncompliant
+CM-PAR-L0255,GT77HWV,Latitude 7450,Dell Inc.,Windows,10.0.26100.6899,rosa.smit@contosomarkets.example,2026-10-25T10:59:00Z,2024-11-29T10:00:00Z,company,compliant
+CM-PAR-L0256,66CNXQJ,Latitude 7450,Dell Inc.,Windows,10.0.26100.6584,jakob.fuentes@contosomarkets.example,2026-10-29T03:04:00Z,2025-03-22T10:00:00Z,company,compliant
+CM-PAR-L0267,YVW7ZPC,Latitude 7450,Dell Inc.,Windows,10.0.22631.5909,nicolas.devries@contosomarkets.example,2026-10-25T10:49:00Z,2025-03-09T10:00:00Z,company,compliant
+CM-PAR-L0268,JWGF90Z,Latitude 7450,Dell Inc.,Windows,10.0.22631.5909,carlos.jansen@contosomarkets.example,2026-10-29T21:12:00Z,2026-03-23T10:00:00Z,company,compliant
+adrian.abad_iPhone,F67DA4559,iPhone 15,Apple,iOS,18.7,adrian.abad@contosomarkets.example,2026-10-28T16:41:00Z,2024-05-23T00:00:00Z,company,compliant
+adrian.nieto_iPhone,F8BBF6032,iPhone 16,Apple,iOS,26.0.1,adrian.nieto@contosomarkets.example,2026-10-28T22:36:00Z,2025-01-05T00:00:00Z,company,compliant
+adrian.ramos_iPhone,F291E8C31,iPhone 16,Apple,iOS,26.0.1,adrian.ramos@contosomarkets.example,2026-10-29T12:04:00Z,2025-09-06T00:00:00Z,company,compliant
+adrian.rubio_iPhone,FAF72638A,iPhone 16,Apple,iOS,18.7,adrian.rubio@contosomarkets.example,2026-10-29T17:34:00Z,2025-10-29T00:00:00Z,company,compliant
+alba.eriksen_iPhone,FB0C9537E,iPhone 15,Apple,iOS,26.0.1,alba.eriksen@contosomarkets.example,2026-10-28T10:21:00Z,2024-05-01T00:00:00Z,company,compliant
+amir.vega_iPhone,FB19F9F64,iPhone 16,Apple,iOS,26.0.1,amir.vega@contosomarkets.example,2026-10-29T07:09:00Z,2025-04-12T00:00:00Z,company,compliant
+ana.lefevre_iPhone,F4247EA68,iPhone 16,Apple,iOS,18.7,ana.lefevre@contosomarkets.example,2026-10-28T14:18:00Z,2025-01-25T00:00:00Z,company,compliant
+ana.soler_Android,R5C531DB67F,Galaxy S24,samsung,Android,15,ana.soler@contosomarkets.example,2026-10-28T11:38:00Z,2026-02-10T00:00:00Z,company,compliant
+andrea.cano_iPhone,F39913AA5,iPhone 16,Apple,iOS,18.7,andrea.cano@contosomarkets.example,2026-10-30T06:53:00Z,2025-06-10T00:00:00Z,company,compliant
+andrea.cortes_iPhone,FDEB3250B,iPhone 15,Apple,iOS,26.0.1,andrea.cortes@contosomarkets.example,2026-10-30T08:29:00Z,2024-06-16T00:00:00Z,company,compliant
+andrea.serrano_iPhone,F1D287752,iPhone 15,Apple,iOS,18.7,andrea.serrano@contosomarkets.example,2026-10-29T04:57:00Z,2024-01-17T00:00:00Z,company,compliant
+arturo.urquijo_iPhone,F6513AA75,iPhone 15,Apple,iOS,26.0.1,arturo.urquijo@contosomarkets.example,2026-10-28T05:00:00Z,2024-06-15T00:00:00Z,company,compliant
+beatriz.mendez_iPhone,F9A297711,iPhone 16,Apple,iOS,26.0.1,beatriz.mendez@contosomarkets.example,2026-10-28T17:06:00Z,2025-05-18T00:00:00Z,company,compliant
+bram.schmidt_Android,P4F50BF3D,Pixel 8,Google,Android,15,bram.schmidt@contosomarkets.example,2026-10-28T08:12:00Z,2025-05-06T08:00:00Z,personal,compliant
+bruno.delgado_iPhone,F09FB092F,iPhone 16,Apple,iOS,18.7,bruno.delgado@contosomarkets.example,2026-10-29T16:04:00Z,2025-01-03T00:00:00Z,company,compliant
+bruno.madsen_iPhone,FC36BD7FB,iPhone 15,Apple,iOS,26.0.1,bruno.madsen@contosomarkets.example,2026-10-29T08:20:00Z,2024-08-15T00:00:00Z,company,compliant
+bruno.marin_iPhone,P869291DB,iPhone 13,Apple,iOS,18.6,bruno.marin@contosomarkets.example,2026-10-29T13:21:00Z,2025-05-06T08:00:00Z,personal,compliant
+bruno.vega_iPhone,FC937C5C8,iPhone 15,Apple,iOS,18.7,bruno.vega@contosomarkets.example,2026-10-29T16:09:00Z,2024-07-05T00:00:00Z,company,compliant
+camille.sanz_iPhone,F3C1AA164,iPhone 15,Apple,iOS,26.0.1,camille.sanz@contosomarkets.example,2026-10-29T10:39:00Z,2024-07-15T00:00:00Z,company,compliant
+carlos.jansen_Android,P9C0E6FF7,Pixel 8,Google,Android,15,carlos.jansen@contosomarkets.example,2026-10-28T09:41:00Z,2025-05-06T08:00:00Z,personal,compliant
+chloe.devries_iPhone,F3BE43989,iPhone 16,Apple,iOS,18.7,chloe.devries@contosomarkets.example,2026-10-28T13:31:00Z,2026-03-20T00:00:00Z,company,compliant
+chloe.navarro_Android,R5C67345CBA,Galaxy S24,samsung,Android,15,chloe.navarro@contosomarkets.example,2026-10-28T20:03:00Z,2024-11-29T00:00:00Z,company,compliant
+clara.vega_iPhone,F3B859FBE,iPhone 16,Apple,iOS,26.0.1,clara.vega@contosomarkets.example,2026-10-29T22:18:00Z,2025-10-06T00:00:00Z,company,compliant
+clara.visser_Android,P323274CC,Pixel 8,Google,Android,15,clara.visser@contosomarkets.example,2026-10-29T22:23:00Z,2025-05-06T08:00:00Z,personal,compliant
+david.aldana_iPhone,F743F2D3A,iPhone 16,Apple,iOS,18.7,david.aldana@contosomarkets.example,2026-10-28T12:34:00Z,2026-05-18T00:00:00Z,company,compliant
+david.bauer_iPhone,F6B85FA5B,iPhone 15,Apple,iOS,26.0.1,david.bauer@contosomarkets.example,2026-10-30T01:53:00Z,2024-06-03T00:00:00Z,company,compliant
+david.delgado_iPhone,F90E32837,iPhone 15,Apple,iOS,18.7,david.delgado@contosomarkets.example,2026-10-29T12:23:00Z,2024-08-31T00:00:00Z,company,compliant
+david.mendez_iPhone,FC7B317D1,iPhone 15,Apple,iOS,18.7,david.mendez@contosomarkets.example,2026-10-29T04:26:00Z,2024-05-20T00:00:00Z,company,compliant
+diego.devries_iPhone,FEDFC65DB,iPhone 15,Apple,iOS,18.7,diego.devries@contosomarkets.example,2026-10-29T04:23:00Z,2024-06-25T00:00:00Z,company,compliant
+diego.jansen_iPhone,PF679D545,iPhone 13,Apple,iOS,18.6,diego.jansen@contosomarkets.example,2026-10-26T17:03:00Z,2025-05-06T08:00:00Z,personal,compliant
+elena.lorenzo_iPhone,F72841971,iPhone 15,Apple,iOS,26.0.1,elena.lorenzo@contosomarkets.example,2026-10-29T13:22:00Z,2024-06-12T00:00:00Z,company,compliant
+emma.vogel_iPhone,FB4EAE889,iPhone 16,Apple,iOS,26.0.1,emma.vogel@contosomarkets.example,2026-10-30T00:22:00Z,2025-06-02T00:00:00Z,company,compliant
+erik.urquijo_iPhone,FDEACE503,iPhone 16,Apple,iOS,26.0.1,erik.urquijo@contosomarkets.example,2026-10-28T14:24:00Z,2025-10-17T00:00:00Z,company,compliant
+eva.rojas_iPhone,PF999EF37,iPhone 13,Apple,iOS,18.6,eva.rojas@contosomarkets.example,2026-10-27T14:51:00Z,2025-05-06T08:00:00Z,personal,compliant
+femke.aldana_iPhone,PFE040F30,iPhone 13,Apple,iOS,18.6,femke.aldana@contosomarkets.example,2026-10-27T09:13:00Z,2025-05-06T08:00:00Z,personal,compliant
+femke.hartmann_iPhone,F614C4909,iPhone 16,Apple,iOS,18.7,femke.hartmann@contosomarkets.example,2026-10-29T07:26:00Z,2026-04-10T00:00:00Z,company,compliant
+femke.marin_Android,R5CF9C96A55,Galaxy S24,samsung,Android,15,femke.marin@contosomarkets.example,2026-10-29T19:15:00Z,2024-06-20T00:00:00Z,company,compliant
+fiona.castro_iPhone,P34AAFECB,iPhone 13,Apple,iOS,18.6,fiona.castro@contosomarkets.example,2026-10-29T17:47:00Z,2025-05-06T08:00:00Z,personal,compliant
+fiona.herrera_iPhone,FCCEDEAF1,iPhone 16,Apple,iOS,18.7,fiona.herrera@contosomarkets.example,2026-10-30T01:32:00Z,2025-04-01T00:00:00Z,company,compliant
+fiona.moreau_iPhone,F1DD4987A,iPhone 15,Apple,iOS,18.7,fiona.moreau@contosomarkets.example,2026-10-30T04:38:00Z,2024-04-03T00:00:00Z,company,compliant
+fiona.rojas_iPhone,P5ACE1005,iPhone 13,Apple,iOS,18.6,fiona.rojas@contosomarkets.example,2026-10-27T06:12:00Z,2025-05-06T08:00:00Z,personal,compliant
+fiona.vogel_iPhone,F6D68BD1B,iPhone 15,Apple,iOS,18.7,fiona.vogel@contosomarkets.example,2026-10-29T08:56:00Z,2023-11-26T00:00:00Z,company,compliant
+gabriel.dubois_Android,R5C0F0D4D07,Galaxy S24,samsung,Android,15,gabriel.dubois@contosomarkets.example,2026-10-28T21:54:00Z,2025-09-15T00:00:00Z,company,compliant
+grace.bauer_iPhone,FADE4BB79,iPhone 15,Apple,iOS,26.0.1,grace.bauer@contosomarkets.example,2026-10-28T09:57:00Z,2024-02-18T00:00:00Z,company,compliant
+hannah.fuentes_iPhone,FF215574D,iPhone 16,Apple,iOS,18.7,hannah.fuentes@contosomarkets.example,2026-10-29T17:01:00Z,2025-09-13T00:00:00Z,company,compliant
+hannah.pascual_iPhone,F73C7A15E,iPhone 16,Apple,iOS,18.7,hannah.pascual@contosomarkets.example,2026-10-30T05:15:00Z,2025-06-09T00:00:00Z,company,compliant
+hugo.pardo_iPhone,FE9188181,iPhone 15,Apple,iOS,26.0.1,hugo.pardo@contosomarkets.example,2026-10-28T21:07:00Z,2024-04-29T00:00:00Z,company,compliant
+ines.carvalho_iPhone,F14A578C7,iPhone 16,Apple,iOS,18.7,ines.carvalho@contosomarkets.example,2026-10-30T06:14:00Z,2025-10-06T00:00:00Z,company,compliant
+isaac.peters_iPhone,FCF1B42C2,iPhone 16,Apple,iOS,26.0.1,isaac.peters@contosomarkets.example,2026-10-30T05:03:00Z,2025-01-06T00:00:00Z,company,compliant
+isaac.suarez_iPhone,F25735AB8,iPhone 16,Apple,iOS,18.7,isaac.suarez@contosomarkets.example,2026-10-29T20:23:00Z,2026-05-29T00:00:00Z,company,compliant
+ivan.cortes_iPhone,FB5E8EBD0,iPhone 15,Apple,iOS,18.7,ivan.cortes@contosomarkets.example,2026-10-29T15:23:00Z,2023-12-25T00:00:00Z,company,compliant
+ivan.lorenzo_iPhone,FDD501658,iPhone 15,Apple,iOS,18.7,ivan.lorenzo@contosomarkets.example,2026-10-29T11:49:00Z,2024-03-30T00:00:00Z,company,compliant
+ivan.visser_Android,R5C6D1C3D92,Galaxy S24,samsung,Android,15,ivan.visser@contosomarkets.example,2026-10-29T22:03:00Z,2024-12-13T00:00:00Z,company,compliant
+jakob.vega_iPhone,F7C755FE8,iPhone 16,Apple,iOS,18.7,jakob.vega@contosomarkets.example,2026-10-29T06:11:00Z,2026-03-14T00:00:00Z,company,compliant
+julia.bauer_iPhone,P2F57B057,iPhone 13,Apple,iOS,18.6,julia.bauer@contosomarkets.example,2026-10-29T17:20:00Z,2025-05-06T08:00:00Z,personal,compliant
+juliette.brandt_iPhone,FF90A64AF,iPhone 15,Apple,iOS,26.0.1,juliette.brandt@contosomarkets.example,2026-10-30T07:08:00Z,2023-12-14T00:00:00Z,company,compliant
+juliette.ferrer_iPhone,FB1167AE5,iPhone 15,Apple,iOS,26.0.1,juliette.ferrer@contosomarkets.example,2026-10-28T09:20:00Z,2023-11-26T00:00:00Z,company,compliant
+karin.zamora_Android,R5CADDB623E,Galaxy S24,samsung,Android,15,karin.zamora@contosomarkets.example,2026-10-30T05:59:00Z,2026-05-19T00:00:00Z,company,compliant
+leo.benitez_iPhone,F832FF3BF,iPhone 16,Apple,iOS,18.7,leo.benitez@contosomarkets.example,2026-10-30T01:08:00Z,2024-10-31T00:00:00Z,company,compliant
+louis.mendez_iPhone,PD5B4457D,iPhone 13,Apple,iOS,18.6,louis.mendez@contosomarkets.example,2026-10-27T06:01:00Z,2025-05-06T08:00:00Z,personal,compliant
+lucas.hartmann_iPhone,F91FC4352,iPhone 15,Apple,iOS,26.0.1,lucas.hartmann@contosomarkets.example,2026-10-29T21:15:00Z,2024-02-11T00:00:00Z,company,compliant
+marta.suarez_Android,R5C6D9FF3F3,Galaxy S24,samsung,Android,15,marta.suarez@contosomarkets.example,2026-10-28T18:58:00Z,2025-09-23T00:00:00Z,company,compliant
+martin.meijer_iPhone,P21D59689,iPhone 13,Apple,iOS,18.6,martin.meijer@contosomarkets.example,2026-10-28T03:12:00Z,2025-05-06T08:00:00Z,personal,compliant
+martin.romero_Android,P4E78EC62,Pixel 8,Google,Android,15,martin.romero@contosomarkets.example,2026-10-28T23:00:00Z,2025-05-06T08:00:00Z,personal,compliant
+martin.torres_iPhone,F8224FA2C,iPhone 16,Apple,iOS,18.7,martin.torres@contosomarkets.example,2026-10-29T12:35:00Z,2026-03-19T00:00:00Z,company,compliant
+mia.castro_Android,PFB86036F,Pixel 8,Google,Android,15,mia.castro@contosomarkets.example,2026-10-28T11:25:00Z,2025-05-06T08:00:00Z,personal,compliant
+mia.ferrer_Android,P507CBA32,Pixel 8,Google,Android,15,mia.ferrer@contosomarkets.example,2026-10-26T17:41:00Z,2025-05-06T08:00:00Z,personal,compliant
+mia.girard_iPhone,F8A7FB6F8,iPhone 16,Apple,iOS,18.7,mia.girard@contosomarkets.example,2026-10-30T02:25:00Z,2024-12-08T00:00:00Z,company,compliant
+mia.herrera_iPhone,F913859E1,iPhone 15,Apple,iOS,18.7,mia.herrera@contosomarkets.example,2026-10-29T03:59:00Z,2023-12-30T00:00:00Z,company,compliant
+nicolas.devries_Android,P53488EA1,Pixel 8,Google,Android,15,nicolas.devries@contosomarkets.example,2026-10-27T07:23:00Z,2025-05-06T08:00:00Z,personal,compliant
+noemie.devries_iPhone,PCEC1A0FB,iPhone 13,Apple,iOS,18.6,noemie.devries@contosomarkets.example,2026-10-27T05:56:00Z,2025-05-06T08:00:00Z,personal,compliant
+noemie.eriksen_iPhone,P56AEE170,iPhone 13,Apple,iOS,18.6,noemie.eriksen@contosomarkets.example,2026-10-27T14:36:00Z,2025-05-06T08:00:00Z,personal,compliant
+noemie.ortega_iPhone,P103FFD3D,iPhone 13,Apple,iOS,18.6,noemie.ortega@contosomarkets.example,2026-10-28T14:44:00Z,2025-05-06T08:00:00Z,personal,compliant
+noemie.sanz_iPhone,P4561CA3B,iPhone 13,Apple,iOS,18.6,noemie.sanz@contosomarkets.example,2026-10-28T04:12:00Z,2025-05-06T08:00:00Z,personal,compliant
+noemie.zamora_iPhone,P8A499820,iPhone 13,Apple,iOS,18.6,noemie.zamora@contosomarkets.example,2026-10-27T17:37:00Z,2025-05-06T08:00:00Z,personal,compliant
+nora.iglesias_iPhone,FC059BD38,iPhone 16,Apple,iOS,18.7,nora.iglesias@contosomarkets.example,2026-10-28T21:53:00Z,2025-09-18T00:00:00Z,company,compliant
+nora.quintana_iPhone,FAD43538E,iPhone 16,Apple,iOS,18.7,nora.quintana@contosomarkets.example,2026-10-29T12:58:00Z,2025-02-15T00:00:00Z,company,compliant
+pablo.escobar_Android,PD463BB65,Pixel 8,Google,Android,15,pablo.escobar@contosomarkets.example,2026-10-27T18:55:00Z,2025-05-06T08:00:00Z,personal,compliant
+patricia.iglesias_iPhone,PFE1AD5A6,iPhone 13,Apple,iOS,18.6,patricia.iglesias@contosomarkets.example,2026-10-29T07:15:00Z,2025-05-06T08:00:00Z,personal,compliant
+patricia.urquijo_iPhone,F5FC2C185,iPhone 16,Apple,iOS,26.0.1,patricia.urquijo@contosomarkets.example,2026-10-30T02:16:00Z,2025-09-01T00:00:00Z,company,compliant
+pedro.mendez_iPhone,FEA8F3EE8,iPhone 16,Apple,iOS,18.7,pedro.mendez@contosomarkets.example,2026-10-29T13:56:00Z,2024-11-23T00:00:00Z,company,compliant
+rosa.bauer_iPhone,P9E981027,iPhone 13,Apple,iOS,18.6,rosa.bauer@contosomarkets.example,2026-10-29T18:43:00Z,2025-05-06T08:00:00Z,personal,compliant
+ruben.escobar_iPhone,F9EBB2E3D,iPhone 15,Apple,iOS,18.7,ruben.escobar@contosomarkets.example,2026-10-28T16:24:00Z,2024-01-08T00:00:00Z,company,compliant
+sanne.castro_iPhone,P2AD53709,iPhone 13,Apple,iOS,18.6,sanne.castro@contosomarkets.example,2026-10-26T15:24:00Z,2025-05-06T08:00:00Z,personal,compliant
+sara.eriksen_iPhone,F06EE6CF8,iPhone 16,Apple,iOS,18.7,sara.eriksen@contosomarkets.example,2026-10-30T02:21:00Z,2026-02-13T00:00:00Z,company,compliant
+sara.escobar_iPhone,FD56A8FDE,iPhone 16,Apple,iOS,26.0.1,sara.escobar@contosomarkets.example,2026-10-28T09:42:00Z,2025-11-15T00:00:00Z,company,compliant
+sofia.keane_iPhone,FE2B04F15,iPhone 16,Apple,iOS,26.0.1,sofia.keane@contosomarkets.example,2026-10-30T05:54:00Z,2026-01-03T00:00:00Z,company,compliant
+sofia.madsen_iPhone,F6791B192,iPhone 15,Apple,iOS,26.0.1,sofia.madsen@contosomarkets.example,2026-10-28T13:51:00Z,2024-04-29T00:00:00Z,company,compliant
+teresa.klein_iPhone,FDD81016D,iPhone 15,Apple,iOS,18.7,teresa.klein@contosomarkets.example,2026-10-29T23:14:00Z,2024-09-28T00:00:00Z,company,compliant
+theo.escobar_iPhone,F797B6B3B,iPhone 16,Apple,iOS,26.0.1,theo.escobar@contosomarkets.example,2026-10-29T07:16:00Z,2025-02-04T00:00:00Z,company,compliant
+theo.suarez_Android,R5C2C2EC5FF,Galaxy S24,samsung,Android,15,theo.suarez@contosomarkets.example,2026-10-30T02:50:00Z,2025-07-18T00:00:00Z,company,compliant
+tobias.dietrich_iPhone,FFECE7D1D,iPhone 15,Apple,iOS,26.0.1,tobias.dietrich@contosomarkets.example,2026-10-29T20:45:00Z,2024-03-05T00:00:00Z,company,compliant
+yara.aldana_iPhone,FDE8413F0,iPhone 15,Apple,iOS,26.0.1,yara.aldana@contosomarkets.example,2026-10-29T13:21:00Z,2024-08-31T00:00:00Z,company,compliant
+yara.peters_Android,R5CC92A1006,Galaxy S24,samsung,Android,15,yara.peters@contosomarkets.example,2026-10-30T08:05:00Z,2026-04-29T00:00:00Z,company,compliant
+zoe.cano_Android,R5CB2506129,Galaxy S24,samsung,Android,15,zoe.cano@contosomarkets.example,2026-10-29T21:20:00Z,2026-06-10T00:00:00Z,company,compliant
+zoe.jansen_iPhone,FD7725AB5,iPhone 16,Apple,iOS,26.0.1,zoe.jansen@contosomarkets.example,2026-10-29T07:02:00Z,2026-04-09T00:00:00Z,company,compliant

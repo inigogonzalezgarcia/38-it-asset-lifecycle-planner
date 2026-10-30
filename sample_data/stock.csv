@@ -1,0 +1,14 @@
+Site,Category,Model,On hand,Minimum
+Madrid,Laptop,Latitude 7450,6,5
+Madrid,Desktop,Precision 3680 Tower,2,2
+Madrid,Monitor,Dell P2725HE,3,10
+Madrid,Dock,Dell WD22TB4,8,6
+Madrid,Phone,iPhone 16,4,3
+Paris,Laptop,Latitude 7450,3,3
+Paris,Monitor,Dell P2725HE,6,4
+Paris,Dock,Dell WD22TB4,1,2
+Paris,Phone,iPhone 16,2,2
+Amsterdam,Laptop,Latitude 7450,2,2
+Amsterdam,Monitor,Dell P2725HE,4,2
+Amsterdam,Dock,Dell WD22TB4,2,1
+Amsterdam,Phone,iPhone 16,1,1
